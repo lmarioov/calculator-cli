@@ -2,7 +2,7 @@
 name = "calculator"
 version = "0.1.0"
 description = ""
-authors = ["JULIANA <julianabetancur320@gmail.com>"]
+authors = ["MARIO <luismariovasquezcorrea@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
