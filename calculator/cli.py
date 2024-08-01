@@ -1,5 +1,4 @@
 import click
-
 from calculator.model import Calculator
 
 
